@@ -1,0 +1,19 @@
+[I 00:44:14.717 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 00:44:14.739 NotebookApp] Serving notebooks from local directory: /workspace/HY_PyData
+[I 00:44:14.739 NotebookApp] 0 active kernels 
+[I 00:44:14.739 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:80/?token=82685e1c21a655cebf3bf4d612ec81ff092cd078895c0ef3
+[I 00:44:14.739 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:44:14.740 NotebookApp] No web browser found: could not locate runnable browser.
+[C 00:44:14.740 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:80/?token=82685e1c21a655cebf3bf4d612ec81ff092cd078895c0ef3
+[I 00:44:15.900 NotebookApp] 302 GET /?token=82685e1c21a655cebf3bf4d612ec81ff092cd078895c0ef3 (172.17.0.1) 0.53ms
+[I 00:44:23.733 NotebookApp] Creating new notebook in 
+[I 00:44:23.905 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 00:44:25.564 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920004414 (172.17.0.1) 5.71ms referer=http://hy-pydata.run.goorm.io/notebooks/Untitled.ipynb?kernel_name=python3
+[I 00:44:25.729 NotebookApp] Kernel started: b13c2734-463e-47c4-bce6-c689b6a8f4b4
+[I 00:44:27.915 NotebookApp] Adapting to protocol v5.1 for kernel b13c2734-463e-47c4-bce6-c689b6a8f4b4
+[I 00:44:44.524 NotebookApp] Saving file at /20170920_Test.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
