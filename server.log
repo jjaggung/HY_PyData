@@ -1,19 +1,17 @@
-[I 03:51:12.839 NotebookApp] Serving notebooks from local directory: /workspace/HY_PyData
-[I 03:51:12.839 NotebookApp] 0 active kernels 
-[I 03:51:12.839 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:80/?token=7e971b0cb7cf538e66e78e71b6898eb628ee9f0e717688f9
-[I 03:51:12.839 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[W 03:51:12.840 NotebookApp] No web browser found: could not locate runnable browser.
-[C 03:51:12.840 NotebookApp] 
+[I 04:58:21.991 NotebookApp] Serving notebooks from local directory: /workspace/HY_PyData
+[I 04:58:21.991 NotebookApp] 0 active kernels 
+[I 04:58:21.991 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:80/?token=6068ace3fe7118758f8b47592dbfc9ba82f25dabfca19e93
+[I 04:58:21.991 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:58:21.992 NotebookApp] No web browser found: could not locate runnable browser.
+[C 04:58:21.992 NotebookApp] 
     
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://0.0.0.0:80/?token=7e971b0cb7cf538e66e78e71b6898eb628ee9f0e717688f9
-[I 03:51:26.080 NotebookApp] 302 GET /?token=7e971b0cb7cf538e66e78e71b6898eb628ee9f0e717688f9 (172.17.0.1) 0.47ms
-[W 03:51:41.057 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920035110 (172.17.0.1) 6.81ms referer=http://hy-pydata.run.goorm.io/notebooks/20170920_Test.ipynb
-[I 03:51:41.776 NotebookApp] Kernel started: 19ab94bf-86f1-4c78-9b7b-285474565933
-[I 03:51:43.972 NotebookApp] Adapting to protocol v5.1 for kernel 19ab94bf-86f1-4c78-9b7b-285474565933
-[I 03:51:58.862 NotebookApp] Creating new notebook in 
-[W 03:52:00.697 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920035110 (172.17.0.1) 1.25ms referer=http://hy-pydata.run.goorm.io/notebooks/Untitled.ipynb?kernel_name=python3
-[I 03:52:00.971 NotebookApp] Kernel started: 4860884e-0aef-4e02-8a9b-b9432376e8c3
-[I 03:52:02.886 NotebookApp] Adapting to protocol v5.1 for kernel 4860884e-0aef-4e02-8a9b-b9432376e8c3
-[I 03:54:01.035 NotebookApp] Saving file at /Untitled.ipynb
+        http://0.0.0.0:80/?token=6068ace3fe7118758f8b47592dbfc9ba82f25dabfca19e93
+[I 04:58:23.258 NotebookApp] 302 GET /?token=6068ace3fe7118758f8b47592dbfc9ba82f25dabfca19e93 (172.17.0.1) 0.51ms
+[W 04:58:27.001 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920045820 (172.17.0.1) 7.98ms referer=http://hy-pydata.run.goorm.io/notebooks/20170920_Test.ipynb
+[I 04:58:27.357 NotebookApp] Kernel started: 611ffe90-e6d1-4864-aa39-07c87cdbf202
+[I 04:58:29.235 NotebookApp] Adapting to protocol v5.1 for kernel 611ffe90-e6d1-4864-aa39-07c87cdbf202
+[W 04:59:23.884 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920045820 (172.17.0.1) 1.60ms referer=http://hy-pydata.run.goorm.io/notebooks/Untitled.ipynb
+[I 04:59:24.066 NotebookApp] Kernel started: a72a8717-512b-4725-9b2a-ec2606c5c9e8
+[I 04:59:26.025 NotebookApp] Adapting to protocol v5.1 for kernel a72a8717-512b-4725-9b2a-ec2606c5c9e8
