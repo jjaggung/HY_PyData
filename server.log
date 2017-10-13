@@ -1,17 +1,32 @@
-[I 04:58:21.991 NotebookApp] Serving notebooks from local directory: /workspace/HY_PyData
-[I 04:58:21.991 NotebookApp] 0 active kernels 
-[I 04:58:21.991 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:80/?token=6068ace3fe7118758f8b47592dbfc9ba82f25dabfca19e93
-[I 04:58:21.991 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[W 04:58:21.992 NotebookApp] No web browser found: could not locate runnable browser.
-[C 04:58:21.992 NotebookApp] 
+[I 16:07:17.276 NotebookApp] Serving notebooks from local directory: /workspace/HY_PyData
+[I 16:07:17.277 NotebookApp] 0 active kernels
+[I 16:07:17.277 NotebookApp] The Jupyter Notebook is running at:
+[I 16:07:17.277 NotebookApp] http://0.0.0.0:80/?token=eeafe523e903fde162f881508afd6c67aaeab85b6d00ba09
+[I 16:07:17.277 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:07:17.278 NotebookApp] No web browser found: could not locate runnable browser.
+[C 16:07:17.278 NotebookApp] 
     
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://0.0.0.0:80/?token=6068ace3fe7118758f8b47592dbfc9ba82f25dabfca19e93
-[I 04:58:23.258 NotebookApp] 302 GET /?token=6068ace3fe7118758f8b47592dbfc9ba82f25dabfca19e93 (172.17.0.1) 0.51ms
-[W 04:58:27.001 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920045820 (172.17.0.1) 7.98ms referer=http://hy-pydata.run.goorm.io/notebooks/20170920_Test.ipynb
-[I 04:58:27.357 NotebookApp] Kernel started: 611ffe90-e6d1-4864-aa39-07c87cdbf202
-[I 04:58:29.235 NotebookApp] Adapting to protocol v5.1 for kernel 611ffe90-e6d1-4864-aa39-07c87cdbf202
-[W 04:59:23.884 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920045820 (172.17.0.1) 1.60ms referer=http://hy-pydata.run.goorm.io/notebooks/Untitled.ipynb
-[I 04:59:24.066 NotebookApp] Kernel started: a72a8717-512b-4725-9b2a-ec2606c5c9e8
-[I 04:59:26.025 NotebookApp] Adapting to protocol v5.1 for kernel a72a8717-512b-4725-9b2a-ec2606c5c9e8
+        http://0.0.0.0:80/?token=eeafe523e903fde162f881508afd6c67aaeab85b6d00ba09
+[I 16:07:21.008 NotebookApp] 302 GET /?token=eeafe523e903fde162f881508afd6c67aaeab85b6d00ba09 (172.17.0.1) 0.44ms
+[W 16:07:27.290 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171013160715 (172.17.0.1) 24.11ms referer=http://hy-pydata.run.goorm.io/notebooks/Untitled.ipynb
+[I 16:07:27.464 NotebookApp] Kernel started: 33512374-3749-419d-87b4-330993cc6c5d
+[I 16:07:28.963 NotebookApp] Adapting to protocol v5.1 for kernel 33512374-3749-419d-87b4-330993cc6c5d
+[W 16:07:34.798 NotebookApp] delete /Untitled.ipynb
+[W 16:07:36.164 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171013160715 (172.17.0.1) 1.35ms referer=http://hy-pydata.run.goorm.io/notebooks/20170929_test.ipynb
+[I 16:07:36.273 NotebookApp] Kernel started: 0c831a8a-f34e-4363-9d1c-64fbd073a2c3
+[I 16:07:37.753 NotebookApp] Adapting to protocol v5.1 for kernel 0c831a8a-f34e-4363-9d1c-64fbd073a2c3
+[W 16:07:42.355 NotebookApp] delete /20170929_test.ipynb
+[I 16:07:42.660 NotebookApp] Kernel shutdown: 0c831a8a-f34e-4363-9d1c-64fbd073a2c3
+[W 16:07:44.107 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171013160715 (172.17.0.1) 1.31ms referer=http://hy-pydata.run.goorm.io/notebooks/20170920_Test.ipynb
+[I 16:07:44.219 NotebookApp] Kernel started: 65a27d6c-6c2a-4acc-99a5-a1fbee643198
+[I 16:07:45.656 NotebookApp] Adapting to protocol v5.1 for kernel 65a27d6c-6c2a-4acc-99a5-a1fbee643198
+[W 16:07:49.082 NotebookApp] delete /20170920_Test.ipynb
+[I 16:08:02.915 NotebookApp] Uploading file to /한대앞_망고플레이트_맛집목록.csv
+[I 16:08:04.104 NotebookApp] Uploading file to /한대앞_망고플레이트_맛집목록_위경도.csv
+[I 16:08:04.810 NotebookApp] Uploading file to /실습04_맛집최근접거리_지도시각화.ipynb
+[I 16:08:05.279 NotebookApp] Uploading file to /실습03_맛집랜덤뽑기_지도시각화.ipynb
+[I 16:08:05.955 NotebookApp] Uploading file to /실습02_맛집랜덤뽑기.ipynb
+[I 16:08:06.497 NotebookApp] Uploading file to /실습01_특강Basic_ANSWER.ipynb
+[W 16:08:06.551 NotebookApp] Notebook 실습01_특강Basic_ANSWER.ipynb is not trusted
